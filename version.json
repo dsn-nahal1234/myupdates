@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.2.0",
   "url": "https://raw.githubusercontent.com/dsn-nahal1234/myupdates/main/app-release.apk",
-  "notes": "v1.0.7: New Student Portal! 🎓 Check your marks instantly."
+  "notes": "v1.2.0: Major UX Upgrade! 🌟\n- Auto-Update Popup\n- Loading Spinner for Login/Password\n- Offline Alert Dialog"
 }
